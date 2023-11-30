@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Unreal engine and other game development softwares**
 
-- 👨‍💻 All of my projects are available at [On my github] 
+- 👨‍💻 All of my projects are available On my github 
 
 - 💬 Ask me about **React, MUI and Python**
 
